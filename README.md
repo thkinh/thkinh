@@ -1,3 +1,3 @@
 <p align="left">From 🇻🇳.</p>
 <p align="left">Want to create something.</p>
-<img width="1312" height="561" alt="image" src="https://github.com/user-attachments/assets/01e394bc-a045-4dc2-8ac3-90330a3b33e7" />
+<img width="1581" height="626" alt="image" src="https://github.com/user-attachments/assets/05b6f4cb-20bc-4590-9335-93ebe3d3fb74" />
