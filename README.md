@@ -1,3 +1,3 @@
-<p align="center">From 🇻🇳</p>
-
-![2025-05-10-214208_hyprshot](https://github.com/user-attachments/assets/d7a75e01-9359-428a-a78b-b5492941dc9d)
+<p align="left">From 🇻🇳.</p>
+<p align="left">Want to create something.</p>
+<img width="546" height="239" alt="image" src="https://github.com/user-attachments/assets/ddd614eb-12d0-42e6-8c0c-491178c03ad6" />
